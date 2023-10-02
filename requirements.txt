@@ -1,0 +1,7 @@
+rdkit
+deepchem
+torch
+torch_geometric
+tensorflow
+numpy
+pandas
