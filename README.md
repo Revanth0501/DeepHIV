@@ -2,7 +2,7 @@
 
 DeepHIV is a robust model based on Graph Neural Networks (GNN) designed for predicting the inhibition strength of molecules against HIV drugs. This project takes advantage of SMILES structures as input, generates molecule structures, and utilizes the GNN model to make accurate predictions.
 
-**TOOLS REQUIREMENTS**
+**TOOL REQUIREMENTS**
 
 1. [GithubAccount](https://github.com)
 2. [VSCodeIDE](https://code.visualstudio.com/)
